@@ -2,7 +2,7 @@
 
 This web application uses Leaflet.js and D3.js to visualize earthquake data from the USGS (United States Geological Survey) API. It displays earthquake locations with circles on a map, where the circle size and color represent the magnitude of each earthquake.
 
-Table of Contents
+### Table of Contents
 	- Demo
 	- Features
 	- Installation
