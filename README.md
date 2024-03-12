@@ -49,6 +49,7 @@ let grayscale = L.tileLayer('https://{s}.tile.jawg.io/jawg-light/{z}/{x}/{y}{r}.
 	- D3.js
 	- USGS Earthquake API
 	- Base maps:
+ 
 		- OpenStreetMap
 		- Jawg Maps
 		- Mundialis Topographic Map
